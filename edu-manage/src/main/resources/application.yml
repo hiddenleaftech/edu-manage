@@ -1,0 +1,5 @@
+server:
+  port: 8056
+spring:
+  application:
+    name: hiddenbase-service
